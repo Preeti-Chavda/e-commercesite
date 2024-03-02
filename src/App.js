@@ -39,7 +39,7 @@ const theme = {
 };
   return (
     <ThemeProvider theme={theme}>
-      <Router basename='e-commerce'>
+      <Router basename='e-commercesite'>
         <GlobalStyle />
         <Header />
           <Routes>
